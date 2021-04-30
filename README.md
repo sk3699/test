@@ -1,2 +1,2 @@
 # test
-just for testing purpose.
+just for the testing purpose.
